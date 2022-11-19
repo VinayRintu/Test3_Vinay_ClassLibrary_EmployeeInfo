@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test3_Vinay_ClassLibrary_EmployeeInfo", "Test3_Vinay_ClassLibrary_EmployeeInfo\Test3_Vinay_ClassLibrary_EmployeeInfo.csproj", "{F076C51D-6982-4A84-9DAA-559B2E43C141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F076C51D-6982-4A84-9DAA-559B2E43C141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F076C51D-6982-4A84-9DAA-559B2E43C141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F076C51D-6982-4A84-9DAA-559B2E43C141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F076C51D-6982-4A84-9DAA-559B2E43C141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F36E8F-8081-4670-891F-38601AF5AC85}
+	EndGlobalSection
+EndGlobal
